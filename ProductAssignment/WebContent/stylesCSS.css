@@ -1,0 +1,49 @@
+@charset "ISO-8859-1";
+
+marquee{
+	
+}
+label{
+	float: left;
+	
+}
+.space{
+	margin-top:3px;
+}
+body{
+	text-align:center;
+	background-color: #FFE4B5;
+}
+td{
+	padding:5px;
+}
+tr{
+	padding:5px;
+}
+#holder{
+	display: inline-block;
+	text-align: center;
+}
+#section1{
+	float:left;
+}
+
+#section2{
+	float:left;
+}
+header{
+	font-size: 20px;
+	font-weight: bold;
+}
+#addButton{
+	margin:2px;	
+}
+#viewButton{
+	margin:2px;
+}
+#editButton{
+	margin:2px;
+}
+#resetButton{
+	margin:2px;
+}
